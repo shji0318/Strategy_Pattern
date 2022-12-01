@@ -19,8 +19,7 @@ public class Player : MonoBehaviour
         else
         {
             Destroy(this.gameObject);
-        }
-        _gun = new HandGun();
+        }        
         
     }    
 
